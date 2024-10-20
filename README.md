@@ -1,6 +1,11 @@
 # Flutter E-Commerce Application
 <br>
-Do Not Forget to <b>Like</b>
+<br>
+<h3>Template of Ecommerce Application</h3>
+<img src="Device_frame.png" alt="Template Image of this screen">
+
+<br>
+
 <br>
 
 ### Onboarding
